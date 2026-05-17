@@ -21,5 +21,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+<img width="1055" height="738" alt="image" src="https://github.com/user-attachments/assets/08a65388-2007-40c3-b66b-5b7b5d11ac55" />
 
 RESULT:
+To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) sucessfully completed
+
